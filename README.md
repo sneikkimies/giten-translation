@@ -10,7 +10,7 @@ Please keep in mind that this project is still very early on. Nothing past the p
 ## Installation
 1. [Install the latest build of Textractor (x86)](https://github.com/Artikash/Textractor/tree/master/extensions)
 2. [Download Giten (CPU patch highly recommended for playing on modern devices)](https://japanesepccompendium.blogspot.com/2013/10/giten-megami-tensei-tokyo-mokushiroku.html?m=1)
-3. Place the Release ZIP in the same folder as Textractor. Open Textractor, click on "Extensions", and delete all of the default ones the program comes with (although you might want to keep "Remove Repeated Phrases" as it makes ). After that, right click -> "Add extension" -> select "GitenTranslator.dll".
+3. Place the contents of Extension folder in the same directory as Textractor. Open Textractor, click on "Extensions", and delete all of the default ones the program comes with (although you might want to keep "Remove Repeated Phrases" as it makes ). After that, right click -> "Add extension" -> select "GitenTranslator.dll".
 4. Launch the game, then switch back to Textractor and click on "Attach to game". Find "dds.exe" in the list and select it. Finally, after all of the hooks have been loaded, choose either "MultiByteToWideChar" or "GetStringTypeW" from the dropdown menu above the text display.
 
 ## Frequently Asked Questions
