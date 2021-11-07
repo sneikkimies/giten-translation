@@ -38,6 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <div id="text"></div>
  
-<script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
-</script>
+<script>document.getElementById("text").innerHTML = "Text added by JavaScript code"</script>
