@@ -1,5 +1,5 @@
 ## Latest Build (2021-11-8)
-Add link here
+[Download link](https://drive.google.com/drive/folders/1BLtG1fVQavN_wLOhGQ4sI8J7LxSaC6F9)
 
 ## Additional Programs
 - **DxWnd:** Required, fixes various graphical issues such as incorrect pallets and missing textures
