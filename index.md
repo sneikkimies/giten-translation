@@ -1,11 +1,12 @@
 ## Latest Build (2021-11-8)
 Add link here
 
-## Additional Downloads
-- DxWnd
-- VirtualMIDISynth
+## Additional Programs
+- DxWnd (Required, fixes various graphical issues such as incorrect pallets and missing textures)
+- dgvoodoo2 (Alternative to DxWnd)
+- VirtualMIDISynth (Allows you to replace the lacklustre default Windows synth with a variety of custom soundfonts)
 
-### Frequent Problems
+## Frequent Problems
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
