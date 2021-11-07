@@ -2,9 +2,9 @@
 Add link here
 
 ## Additional Programs
-- **DxWnd** Required, fixes various graphical issues such as incorrect pallets and missing textures
-- **dgvoodoo2**  Alternative to DxWnd
-- **VirtualMIDISynth**  Allows you to replace the lacklustre default Windows synth with a variety of custom soundfonts
+- **DxWnd:** Required, fixes various graphical issues such as incorrect pallets and missing textures
+- **dgvoodoo2:**  Alternative to DxWnd
+- **VirtualMIDISynth:**  Allows you to replace the lacklustre default Windows synth with a variety of custom soundfonts
 
 ## Project Status
 - **Scenario:** 27 / 106
