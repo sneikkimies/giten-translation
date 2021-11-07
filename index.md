@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Latest Build (2021-11-8)
+Add link here
 
-You can use the [editor on GitHub](https://github.com/sneikkimies/giten-translation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Additional Downloads
+- DxWnd
+- VirtualMIDISynth
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Frequent Problems
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
