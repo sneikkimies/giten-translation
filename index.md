@@ -7,6 +7,17 @@ Add link here
 - **VirtualMIDISynth**  Allows you to replace the lacklustre default Windows synth with a variety of custom soundfonts
 
 ## Frequent Problems
+```
+Everything is purple / the screen is black except when I'm moving!
+```
+The game uses a very old version of DirectDraw, and won't work on modern systems without a compatibility layer such as DxWnd or dgvoodoo2.
+
+```
+The soundtrack sucks compared to the PC98 version!
+```
+Both the Windows and PC98 versions of the game use the exact same MIDI files. The difference in sound quality mostly comes from Windows' poor default synth. You can try running a program like VirtualMIDISynth in order to use a soundfont with higher quality samples. Personally, I really like OPL-3 FM 128M.
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
