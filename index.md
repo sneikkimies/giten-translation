@@ -25,7 +25,3 @@ Both the Windows and PC98 versions of the game use the exact same MIDI files. Th
 ### I came across a typo / untranslated text 
 
 Please send me an email at sneikkimies@gmail.com with an appropriate subject, or at twitter @sneikkimies, and I'll get that fixed in the next update.
-
-
-<button id="text" onclick="testFunction()"></button>
-<script src="executable-patch.js"></script>
