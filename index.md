@@ -11,7 +11,7 @@
 - **Items/Skills:** ~30%
 - **Demon Conversation:** 0%
 - **System Text:** Working
-- **Aprox. Total Completion:** 30%
+- **Aprox. Total Completion:** ~30%
 
 ## Frequent Problems
 
