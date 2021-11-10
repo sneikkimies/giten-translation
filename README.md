@@ -1,5 +1,8 @@
 ## Latest Build (2021-11-10)
 [Download link](https://drive.google.com/file/d/1-MMfclM-FTEdp6NUElaP4V4e8Ui5Et1q/view?usp=sharing)
+-Story translated up to the point where the player defeats Bael
+-Most early items/skills are translated
+-Large portions of the UI have been translated
 
 ## Additional Programs
 - **DxWnd:** Required, fixes various graphical issues such as incorrect pallets and missing textures
